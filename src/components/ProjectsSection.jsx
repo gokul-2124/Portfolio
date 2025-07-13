@@ -17,7 +17,7 @@ const projects = [
       "An AI Powered Image Generation Platform.",
     image: "/projects/project2.png",
     tags: ["React", "Node", "Express", "MongoDB", "ClipDropAPI",],
-    demoUrl: "https://aimg-client.vercel.app/",
+    demoUrl: "https://aimg-pi.vercel.app/",
     githubUrl: "https://github.com/gokul-2124/aimg",
   },
   {
