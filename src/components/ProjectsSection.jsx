@@ -7,7 +7,7 @@ const projects = [
     description: "A Real time Collaborative Code Editor",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Node", "Express", "SocketIO",],
-    demoUrl: "https://cod-let.vercel.app/",
+    demoUrl: "https://codlet-gk.vercel.app/",
     githubUrl: "https://github.com/karthi9772/CodLet",
   },
   {
